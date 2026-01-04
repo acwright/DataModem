@@ -5207,7 +5207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "DataModem Parts:SWITCHCRAFT_PJRAN1X1U02X"
 			(at 257.81 130.81 0)
 			(effects
 				(font
@@ -5549,7 +5549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 189.23 138.938 90)
 			(effects
 				(font
@@ -5707,7 +5707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 145.7452 129.54 0)
 			(effects
 				(font
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 120.3452 140.97 0)
 			(effects
 				(font
@@ -6150,7 +6150,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f7d5502d-9661-4730-a4d1-c34c2ef9c4d2")
+			(uuid "f7d5502d-9661-4730-a4d1-c34c2ef9c4d3")
 		)
 		(instances
 			(project ""
@@ -6186,7 +6186,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 123.19 145.0848 0)
 			(effects
 				(font
@@ -6263,7 +6263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 215.9 55.88 0)
 			(effects
 				(font
@@ -6351,7 +6351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 224.282 101.6 90)
 			(effects
 				(font
@@ -6379,10 +6379,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf052")
+			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf053")
 		)
 		(pin "2"
-			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0663")
+			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0664")
 		)
 		(instances
 			(project ""
@@ -6419,7 +6419,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal"
 			(at 45.72 48.006 0)
 			(effects
 				(font
@@ -6552,7 +6552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 123.19 152.7048 0)
 			(effects
 				(font
@@ -6697,7 +6697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 234.442 101.6 90)
 			(effects
 				(font
@@ -6766,7 +6766,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 121.412 49.53 90)
 			(effects
 				(font
@@ -6794,10 +6794,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf052")
+			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf054")
 		)
 		(pin "2"
-			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0663")
+			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0665")
 		)
 		(instances
 			(project ""
@@ -6836,7 +6836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 68.2752 53.34 0)
 			(effects
 				(font
@@ -6906,7 +6906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 46.99 168.91 0)
 			(effects
 				(font
@@ -6934,28 +6934,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "6d9bbfba-4523-4fd6-9fde-1f2ca763a43c")
+			(uuid "6d9bbfba-4523-4fd6-9fde-1f2ca763a43d")
 		)
 		(pin "2"
-			(uuid "3d82da02-d6dc-4f9b-9148-0cbcda33801b")
+			(uuid "3d82da02-d6dc-4f9b-9148-0cbcda33801c")
 		)
 		(pin "7"
-			(uuid "6bd4dda7-02a6-4b7c-8a20-1ac6223ed0ba")
+			(uuid "6bd4dda7-02a6-4b7c-8a20-1ac6223ed0bb")
 		)
 		(pin "5"
-			(uuid "1d51ea87-a744-4f4a-8ceb-b1a5b5c9245d")
+			(uuid "1d51ea87-a744-4f4a-8ceb-b1a5b5c9245e")
 		)
 		(pin "1"
-			(uuid "bc4aa6f3-8037-4aea-8d9c-2789dbe5a780")
+			(uuid "bc4aa6f3-8037-4aea-8d9c-2789dbe5a781")
 		)
 		(pin "6"
-			(uuid "28ba2445-2e85-4261-bfed-a02937449b8b")
+			(uuid "28ba2445-2e85-4261-bfed-a02937449b8c")
 		)
 		(pin "3"
-			(uuid "0db4ece9-2657-4df6-81d9-5f5b691de2e0")
+			(uuid "0db4ece9-2657-4df6-81d9-5f5b691de2e1")
 		)
 		(pin "4"
-			(uuid "510d0f2d-5fd0-4866-9e63-af9116745af3")
+			(uuid "510d0f2d-5fd0-4866-9e63-af9116745af4")
 		)
 		(instances
 			(project ""
@@ -6992,7 +6992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 214.63 128.27 0)
 			(effects
 				(font
@@ -7020,28 +7020,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "6d9bbfba-4523-4fd6-9fde-1f2ca763a43c")
+			(uuid "6d9bbfba-4523-4fd6-9fde-1f2ca763a43e")
 		)
 		(pin "2"
-			(uuid "3d82da02-d6dc-4f9b-9148-0cbcda33801b")
+			(uuid "3d82da02-d6dc-4f9b-9148-0cbcda33801d")
 		)
 		(pin "7"
-			(uuid "6bd4dda7-02a6-4b7c-8a20-1ac6223ed0ba")
+			(uuid "6bd4dda7-02a6-4b7c-8a20-1ac6223ed0bc")
 		)
 		(pin "5"
-			(uuid "1d51ea87-a744-4f4a-8ceb-b1a5b5c9245d")
+			(uuid "1d51ea87-a744-4f4a-8ceb-b1a5b5c9245f")
 		)
 		(pin "1"
-			(uuid "bc4aa6f3-8037-4aea-8d9c-2789dbe5a780")
+			(uuid "bc4aa6f3-8037-4aea-8d9c-2789dbe5a782")
 		)
 		(pin "6"
-			(uuid "28ba2445-2e85-4261-bfed-a02937449b8b")
+			(uuid "28ba2445-2e85-4261-bfed-a02937449b8d")
 		)
 		(pin "3"
-			(uuid "0db4ece9-2657-4df6-81d9-5f5b691de2e0")
+			(uuid "0db4ece9-2657-4df6-81d9-5f5b691de2e2")
 		)
 		(pin "4"
-			(uuid "510d0f2d-5fd0-4866-9e63-af9116745af3")
+			(uuid "510d0f2d-5fd0-4866-9e63-af9116745af5")
 		)
 		(instances
 			(project ""
@@ -7080,7 +7080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "DataModem Parts:SWITCHCRAFT_PJRAN1X1U02X"
 			(at 257.81 55.88 0)
 			(effects
 				(font
@@ -7108,10 +7108,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "411011bb-2711-4ba6-a1e6-77988a093081")
+			(uuid "411011bb-2711-4ba6-a1e6-77988a093082")
 		)
 		(pin "1"
-			(uuid "86ae3b66-d8f6-4cb8-9a17-33cff571d537")
+			(uuid "86ae3b66-d8f6-4cb8-9a17-33cff571d538")
 		)
 		(instances
 			(project ""
@@ -7150,7 +7150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 224.282 143.51 90)
 			(effects
 				(font
@@ -7218,7 +7218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 241.3 131.7752 0)
 			(effects
 				(font
@@ -7286,7 +7286,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 247.65 54.9148 0)
 			(effects
 				(font
@@ -7314,10 +7314,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7bf4286f-b1b9-4038-bce0-cbe933e7d58b")
+			(uuid "7bf4286f-b1b9-4038-bce0-cbe933e7d58c")
 		)
 		(pin "2"
-			(uuid "a50f43b4-d277-4af5-9ecf-e88b902763a1")
+			(uuid "a50f43b4-d277-4af5-9ecf-e88b902763a2")
 		)
 		(instances
 			(project ""
@@ -7577,7 +7577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 234.442 143.51 90)
 			(effects
 				(font
@@ -7777,7 +7777,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7976,7 +7975,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 68.2752 140.97 0)
 			(effects
 				(font
@@ -8185,7 +8184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "DataModem Parts:3386F-1-103LF"
 			(at 201.93 137.16 0)
 			(effects
 				(font
@@ -8258,7 +8257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 93.98 182.88 0)
 			(effects
 				(font
@@ -8379,7 +8378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 121.412 29.21 90)
 			(effects
 				(font
@@ -8407,10 +8406,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf052")
+			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf055")
 		)
 		(pin "2"
-			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0663")
+			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0666")
 		)
 		(instances
 			(project ""
@@ -8449,7 +8448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 44.45 73.66 0)
 			(effects
 				(font
@@ -8524,7 +8523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 160.782 101.6 90)
 			(effects
 				(font
@@ -8552,10 +8551,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf052")
+			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf056")
 		)
 		(pin "2"
-			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0663")
+			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0667")
 		)
 		(instances
 			(project ""
@@ -8594,7 +8593,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "DataModem Parts:3386F-1-103LF"
 			(at 162.56 53.34 0)
 			(effects
 				(font
@@ -8622,13 +8621,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "3f72112c-ab01-4ea8-aa0c-27524bec3e85")
+			(uuid "3f72112c-ab01-4ea8-aa0c-27524bec3e86")
 		)
 		(pin "2"
-			(uuid "ffc630e8-05de-4052-a0bb-13cbcab246fc")
+			(uuid "ffc630e8-05de-4052-a0bb-13cbcab246fd")
 		)
 		(pin "1"
-			(uuid "5b361585-6d7a-437c-bb8b-a2eccf1ca86d")
+			(uuid "5b361585-6d7a-437c-bb8b-a2eccf1ca86e")
 		)
 		(instances
 			(project ""
@@ -8779,7 +8778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 161.5948 128.27 0)
 			(effects
 				(font
@@ -8914,7 +8913,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 124.1552 68.58 0)
 			(effects
 				(font
@@ -8942,10 +8941,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7bf4286f-b1b9-4038-bce0-cbe933e7d58b")
+			(uuid "7bf4286f-b1b9-4038-bce0-cbe933e7d58d")
 		)
 		(pin "2"
-			(uuid "a50f43b4-d277-4af5-9ecf-e88b902763a1")
+			(uuid "a50f43b4-d277-4af5-9ecf-e88b902763a3")
 		)
 		(instances
 			(project ""
@@ -8984,7 +8983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 174.752 101.6 90)
 			(effects
 				(font
@@ -9012,10 +9011,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf052")
+			(uuid "9d97d472-9cb0-4918-bf3e-7b553e5bf057")
 		)
 		(pin "2"
-			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0663")
+			(uuid "785825d2-dbd1-4f31-9f37-43ba33cf0668")
 		)
 		(instances
 			(project ""
@@ -9054,7 +9053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 145.7452 66.04 0)
 			(effects
 				(font
@@ -9082,10 +9081,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7bf4286f-b1b9-4038-bce0-cbe933e7d58b")
+			(uuid "7bf4286f-b1b9-4038-bce0-cbe933e7d58e")
 		)
 		(pin "2"
-			(uuid "a50f43b4-d277-4af5-9ecf-e88b902763a1")
+			(uuid "a50f43b4-d277-4af5-9ecf-e88b902763a4")
 		)
 		(instances
 			(project ""

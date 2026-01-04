@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "A.C. Wright Logo")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/A.C. Wright Logo.pretty")(options "")(descr ""))
+  (lib (name "DataModem Parts")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/DataModem Parts.pretty")(options "")(descr ""))
 )
